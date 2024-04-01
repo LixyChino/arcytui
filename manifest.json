@@ -46,6 +46,6 @@
   "theme_color": "#1da1f2",
   "background_color": "#1da1f2",
   "display": "standalone",
-  "scope": "/",
-  "start_url": "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut"
+  "scope": "https://twitter.com/",
+  "start_url": "https://lixychino.github.io/twiwebapp.github.io/"
 }
