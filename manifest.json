@@ -1,7 +1,8 @@
 {
   "name": "Twitter",
   "short_name": "Twitter",
-      {
+  "icons": [
+  {
       "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Logo_of_Twitter.svg",
       "sizes": "72x72",
       "type": "image/svg"
@@ -41,9 +42,12 @@
       "sizes": "512x512",
       "type": "image/svg"
     }
+  ],
   "theme_color": "#1da1f2",
   "background_color": "#1da1f2",
   "display": "standalone",
   "scope": "/",
   "start_url": "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut"
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
