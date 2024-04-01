@@ -42,7 +42,7 @@
       "sizes": "512x512",
       "type": "image/svg"
     },
- ],
+  ,
   "theme_color": "#1da1f2",
   "background_color": "#1da1f2",
   "display": "standalone",
