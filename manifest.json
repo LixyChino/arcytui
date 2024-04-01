@@ -47,7 +47,5 @@
   "background_color": "#1da1f2",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut",
-  "theme_color": "#000000",
-  "background_color": "#ffffff",
+  "start_url": "https://twitter.com/?utm_source=homescreen&utm_medium=shortcut"
 }
