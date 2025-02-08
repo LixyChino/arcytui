@@ -43,8 +43,8 @@
       "type": "image/png"
     }
   ],
-  "theme_color": "#1da1f2",
-  "background_color": "#1da1f2",
+  "theme_color": "#fe0000",
+  "background_color": "#fe0000",
   "display": "standalone",
   "scope": "https://m.youtube.com/",
   "start_url": "https://lixychino.github.io/twiwebapp.github.io/"
