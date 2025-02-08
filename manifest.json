@@ -1,5 +1,5 @@
 {
-  "name": "Twitter",
+  "name": "YouTube",
   "short_name": "Twitter",
   "icons": [
   {
@@ -46,6 +46,6 @@
   "theme_color": "#1da1f2",
   "background_color": "#1da1f2",
   "display": "standalone",
-  "scope": "https://twitter.com/",
+  "scope": "https://m.youtube.com/",
   "start_url": "https://lixychino.github.io/twiwebapp.github.io/"
 }
