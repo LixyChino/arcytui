@@ -3,42 +3,42 @@
   "short_name": "YouTube",
   "icons": [
   {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "72x72",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "96x96",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "128x128",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "144x144",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "152x152",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "384x384",
       "type": "image/png"
     },
     {
-      "src": "https://lixychino.github.io/twiwebapp.github.io/favicon.ico",
+      "src": "https://lixychino.github.io/arcytui/favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }
@@ -47,5 +47,5 @@
   "background_color": "#282828",
   "display": "standalone",
   "scope": "https://m.youtube.com/",
-  "start_url": "https://lixychino.github.io/twiwebapp.github.io/"
+  "start_url": "https://lixychino.github.io/arcytui/"
 }
