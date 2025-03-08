@@ -1,0 +1,72 @@
+body {
+    background-color: #282828;
+    margin: 0px;
+}
+
+p {
+    color: #fff;
+    text-align: center;
+}
+
+.move {
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    margin: 5px;
+}
+
+img {
+    width: 40vw;
+}
+
+.logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 43vh;
+    height: 10vh;
+}
+
+.text {
+    font-size: 0.8rem;
+    margin-top: 20vh;
+}
+
+.sub {
+    font-family: "Outfit";
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+#animation {
+    animation: fade-in 1s;
+    animation-fill-mode: forwards;
+}
+    @keyframes fade-in {
+        from {
+            opacity: 0;
+        }
+        to {
+            opacity: 1;
+        }
+}
+
+#slideinBottom {
+    animation: slideinBottom 1s;
+}
+
+    @keyframes slideinBottom {
+        0% {
+            transform: translateY(50px);
+        }
+        100% {
+            transform: translateY(0);
+        }
+}
+
+.jump_arcytui {
+    margin-top: 5vh;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
