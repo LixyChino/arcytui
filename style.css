@@ -1,6 +1,7 @@
 body {
     background-color: #282828;
     margin: 0px;
+    user-select: none;
 }
 
 p {
